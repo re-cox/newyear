@@ -9,7 +9,7 @@ export const products: Product[] = [
     name: 'Altın Varaklı Çam Ağacı (Büyük)', 
     price: 750, 
     category: 'Ağaçlar', 
-    image: 'image_fdab37.png', 
+    image: 'https://i.hizliresim.com/80bb6st.jpg', 
     desc: 'Büyük boy, altın detaylı dekoratif çam ağacı. Salonunuzun yıldızı olmaya aday.' 
   },
   { 
@@ -33,7 +33,7 @@ export const products: Product[] = [
     name: 'Mini Çam Ağacı', 
     price: 100, 
     category: 'Ağaçlar', 
-    image: 'image_fdaaf2.png', 
+    image: 'https://r.resimlink.com/k_WJ9uoC4F.jpeg', 
     desc: 'Küçük boy ışıltılı çam ağacı. Minimalist dekor sevenler için.' 
   },
   { 

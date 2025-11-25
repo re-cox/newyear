@@ -9,7 +9,7 @@ export const products: Product[] = [
     name: 'Altın Varaklı Çam Ağacı (Büyük)', 
     price: 750, 
     category: 'Ağaçlar', 
-    image: 'https://i.hizliresim.com/80bb6st.jpg', 
+    image: 'image_fdab37.png', 
     desc: 'Büyük boy, altın detaylı dekoratif çam ağacı. Salonunuzun yıldızı olmaya aday.' 
   },
   { 
@@ -77,11 +77,53 @@ export const products: Product[] = [
     desc: 'Masalsı desenli, Alice Harikalar Diyarı temalı tasarım.' 
   },
 
-  // Fiyat Listesinde Olup Görseli Henüz Yüklenmemiş Ürünler
-  { id: 10, name: 'Kurabiye Adam', price: 400, category: 'Figürler', image: null, desc: 'Klasik gingerbread man figürü.' },
-  { id: 11, name: 'Noel Baba (139g)', price: 250, category: 'Figürler', image: null, desc: 'Büyük boy Noel Baba figürü.' },
-  { id: 12, name: 'Köpek Figürlü Mum', price: 250, category: 'Figürler', image: null, desc: 'Sevimli köpek figürü.' },
-  { id: 13, name: 'Ev Figürlü Mum', price: 100, category: 'Dekoratif', image: null, desc: 'Kış temalı kar kaplı ev figürü.' },
-  { id: 14, name: 'Noel Baba (87g)', price: 150, category: 'Figürler', image: null, desc: 'Orta boy Noel Baba figürü.' },
-  { id: 15, name: 'Geyik Figürü', price: 50, category: 'Figürler', image: null, desc: 'Yılbaşı geyiği detayı.' },
+  // Yeni Eklenen Görsel Bekleyen Ürünler (Linkleri güncelleyiniz)
+  { 
+    id: 10, 
+    name: 'Kurabiye Adam', 
+    price: 400, 
+    category: 'Figürler', 
+    image: 'kurabiye_adam.png', 
+    desc: 'Klasik gingerbread man figürü.' 
+  },
+  { 
+    id: 11, 
+    name: 'Noel Baba (139g)', 
+    price: 250, 
+    category: 'Figürler', 
+    image: 'noel_baba_buyuk.png', 
+    desc: 'Büyük boy Noel Baba figürü.' 
+  },
+  { 
+    id: 12, 
+    name: 'Köpek Figürlü Mum', 
+    price: 250, 
+    category: 'Figürler', 
+    image: 'kopek_figur.png', 
+    desc: 'Sevimli köpek figürü.' 
+  },
+  { 
+    id: 13, 
+    name: 'Ev Figürlü Mum', 
+    price: 100, 
+    category: 'Dekoratif', 
+    image: 'ev_figur.png', 
+    desc: 'Kış temalı kar kaplı ev figürü.' 
+  },
+  { 
+    id: 14, 
+    name: 'Noel Baba (87g)', 
+    price: 150, 
+    category: 'Figürler', 
+    image: 'noel_baba_orta.png', 
+    desc: 'Orta boy Noel Baba figürü.' 
+  },
+  { 
+    id: 15, 
+    name: 'Geyik Figürü', 
+    price: 50, 
+    category: 'Figürler', 
+    image: 'geyik_figur.png', 
+    desc: 'Yılbaşı geyiği detayı.' 
+  },
 ];

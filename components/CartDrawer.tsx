@@ -30,7 +30,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
     message += `\n\nSipariş teslimatı hakkında bilgi alabilir miyim?`;
     
     // Replace with actual business number
-    const phoneNumber = "905555555555"; 
+    const phoneNumber = "905364211462"; 
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
   };

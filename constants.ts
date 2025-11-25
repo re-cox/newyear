@@ -9,7 +9,7 @@ export const products: Product[] = [
     name: 'Altın Varaklı Çam Ağacı (Büyük)', 
     price: 750, 
     category: 'Ağaçlar', 
-    image: 'image_fdab37.png', 
+    image: 'https://i.hizliresim.com/80bb6st.jpg', 
     desc: 'Büyük boy, altın detaylı dekoratif çam ağacı. Salonunuzun yıldızı olmaya aday.' 
   },
   { 

@@ -65,7 +65,7 @@ export const products: Product[] = [
     name: 'Noel Baba Şapkalı Şamdan', 
     price: 100, 
     category: 'Şamdan', 
-    image: 'https://r.resimlink.com/xwaAFt.jpeg, 
+    image: 'https://r.resimlink.com/xwaAFt.jpeg', 
     desc: 'Kırmızı şeritli ve şapka detaylı eğlenceli şamdan mum.' 
   },
   { 

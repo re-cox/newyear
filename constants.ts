@@ -17,7 +17,7 @@ export const products: Product[] = [
     name: 'Noel Babalı Çam Ağacı', 
     price: 350, 
     category: 'Ağaçlar', 
-    image: 'image_fdaaf8.png', 
+    image: 'https://r.resimlink.com/ovs82qrX.jpeg', 
     desc: 'Noel baba figürlü, detaylı yeşil çam ağacı. Klasik yılbaşı ruhu.' 
   },
   { 
@@ -25,7 +25,7 @@ export const products: Product[] = [
     name: 'Süslemeli Çam Ağacı', 
     price: 350, 
     category: 'Ağaçlar', 
-    image: 'image_fdab14.png', 
+    image: 'https://r.resimlink.com/ctZDvp.jpeg', 
     desc: 'Renkli süsleme detaylı orta boy ağaç. Masalar için ideal.' 
   },
   { 
@@ -41,7 +41,7 @@ export const products: Product[] = [
     name: 'Kurşun Asker (Figür)', 
     price: 125, 
     category: 'Figürler', 
-    image: 'image_fdab2f.png', 
+    image: 'https://r.resimlink.com/wpisg.jpeg', 
     desc: 'Siyah ve bordo seçenekleriyle nostaljik kurşun asker figürü.' 
   },
   { 
@@ -49,7 +49,7 @@ export const products: Product[] = [
     name: 'Hediye Kutusu Mum', 
     price: 175, 
     category: 'Dekoratif', 
-    image: 'image_fdaab9.png', 
+    image: 'https://r.resimlink.com/wc-lnNOCg4.jpeg', 
     desc: 'Şık siyah hediye paketi görünümlü mum. Yakmaya kıyamayacaksınız.' 
   },
   { 
@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: 'Fındıkkıran Şamdan Mum', 
     price: 100, 
     category: 'Şamdan', 
-    image: 'image_fdae16.png', 
+    image: 'https://r.resimlink.com/FvT2Jd1_-.jpeg', 
     desc: 'El boyaması fındıkkıran desenli şamdan mum.' 
   },
   { 
@@ -65,7 +65,7 @@ export const products: Product[] = [
     name: 'Noel Baba Şapkalı Şamdan', 
     price: 100, 
     category: 'Şamdan', 
-    image: 'image_fdadf9.png', 
+    image: 'https://r.resimlink.com/xwaAFt.jpeg, 
     desc: 'Kırmızı şeritli ve şapka detaylı eğlenceli şamdan mum.' 
   },
   { 
@@ -73,25 +73,25 @@ export const products: Product[] = [
     name: 'Tavşan & Asker Şamdan', 
     price: 100, 
     category: 'Şamdan', 
-    image: 'image_fdae1f.png', 
+    image: 'https://r.resimlink.com/yhDiq2Gvd.jpeg', 
     desc: 'Masalsı desenli, Alice Harikalar Diyarı temalı tasarım.' 
   },
 
   // Yeni Eklenen Görsel Bekleyen Ürünler (Linkleri güncelleyiniz)
   { 
     id: 10, 
-    name: 'Kurabiye Adam', 
+    name: 'Kurabiye Girl', 
     price: 400, 
     category: 'Figürler', 
-    image: 'kurabiye_adam.png', 
+    image: 'https://r.resimlink.com/Becq_xNTZS8.jpeg', 
     desc: 'Klasik gingerbread man figürü.' 
   },
   { 
     id: 11, 
-    name: 'Noel Baba (139g)', 
+    name: 'Noel Baba ', 
     price: 250, 
     category: 'Figürler', 
-    image: 'noel_baba_buyuk.png', 
+    image: 'https://r.resimlink.com/9cDdW.jpeg', 
     desc: 'Büyük boy Noel Baba figürü.' 
   },
   { 
@@ -99,7 +99,7 @@ export const products: Product[] = [
     name: 'Köpek Figürlü Mum', 
     price: 250, 
     category: 'Figürler', 
-    image: 'kopek_figur.png', 
+    image: 'https://r.resimlink.com/5mQ-HXaiY.jpeg', 
     desc: 'Sevimli köpek figürü.' 
   },
   { 
@@ -107,15 +107,15 @@ export const products: Product[] = [
     name: 'Ev Figürlü Mum', 
     price: 100, 
     category: 'Dekoratif', 
-    image: 'ev_figur.png', 
+    image: 'https://r.resimlink.com/vQLyoqNSM_W.jpeg', 
     desc: 'Kış temalı kar kaplı ev figürü.' 
   },
   { 
     id: 14, 
-    name: 'Noel Baba (87g)', 
+    name: 'Noel Baba Beyaz', 
     price: 150, 
     category: 'Figürler', 
-    image: 'noel_baba_orta.png', 
+    image: 'https://r.resimlink.com/IdC_MKZ.jpeg', 
     desc: 'Orta boy Noel Baba figürü.' 
   },
   { 
@@ -123,7 +123,7 @@ export const products: Product[] = [
     name: 'Geyik Figürü', 
     price: 50, 
     category: 'Figürler', 
-    image: 'geyik_figur.png', 
+    image: 'https://r.resimlink.com/7WkmG.jpeg', 
     desc: 'Yılbaşı geyiği detayı.' 
   },
 ];
